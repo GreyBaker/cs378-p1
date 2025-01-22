@@ -12,12 +12,12 @@ body {
 #orange-cursive {
     margin:0px;
     color:orange;
-    font-size:140%;
+    font-size:130%;
     font-family: Brush Script MT, Brush Script Std, cursive;
 }
 #subtitle {
     color:gray;
-    font-size:200%;
+    font-size:180%;
 }
 .btn {
     height:24px;
