@@ -39,3 +39,7 @@ body {
     width: 80%;
     padding: 5%
 }
+#credits-row {
+    padding:5%;
+    font-size: 80%;
+}
